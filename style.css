@@ -1,0 +1,87 @@
+*{
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(https://img.freepik.com/premium-vector/technology-future-polygon-geometric-point-touch-hand_34679-521.jpg?ga=GA1.1.227374223.1735918310&semt=ais_hybrid&w=740);
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.calc{
+    text-align: center;
+    border: 2px solid white;
+    border: none;
+    width: 650px;
+    margin: 0 auto;
+    margin-top: 120px;
+    padding: 32px;
+    background-image: url(https://img.freepik.com/free-photo/abstract-digital-grid-black-background_53876-97647.jpg?ga=GA1.1.227374223.1735918310&semt=ais_hybrid&w=740);
+    background-color: rgba(0, 0, 0,0.4);
+    background-blend-mode: darken;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+}
+
+h1{
+    font-style:  bold;
+    padding-bottom: 40px;
+    margin-top: 10px;
+}
+
+#height{
+    border: 1px solid black;
+    margin-bottom: 40px;
+    font-size: 1.1rem;
+    border: none;
+}
+.height{
+    font-size: 1.5rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#weight{
+    border: 1px solid black;
+    margin-bottom: 40px;
+    font-size: 1.1rem;
+    border: none;
+}
+.weight{
+    font-size: 1.5rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#button{
+    border: 2px solid black;
+    margin-bottom: 30px;
+    font-size: 1.5rem;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    border-radius: 7px;
+    padding: 0 30px;
+}
+#button:hover{
+    cursor: pointer;
+    background: linear-gradient(45deg, #ff6b6b, #f7d794);
+}
+
+h3{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+p{
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: normal;
+}
+#result{
+    font-size: 1.2rem;
+    color: #ffcc00;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+
+
